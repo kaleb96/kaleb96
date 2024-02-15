@@ -6,8 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleb96&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleb96&layout=compact&theme=tokyonight)
 
-##🌱 I'm currently learning... 
-simple instagram application &nbsp; <a href="https://github.com/kaleb96/instagram"> <img alt="InstagramApp" src="https://img.shields.io/badge/InstagramApp-E4405F?&style=flex&logo=instagram&logoColor=white"> </a>
+## 🌱 I'm currently learning... 
+- simple instagram application &nbsp; <a href="https://github.com/kaleb96/instagram"> <img alt="InstagramApp" src="https://img.shields.io/badge/InstagramApp-E4405F?&style=flex&logo=instagram&logoColor=white"> </a>
 
 ## 👯 I’m looking to collaborate on ...
 저는 이런 개발자와 함께하고 싶습니다.
