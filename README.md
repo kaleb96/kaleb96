@@ -1,7 +1,14 @@
-### 안녕하세요 박기윤입니다. 🙇
-### 🗒️Blog link [🐈‍⬛ 미어캣의 필기장](https://meerkat127.tistory.com)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=90616A&text=Kaleb%27s%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+
+<p align="center">
+  반갑습니다. 👏 <br>
+  "서울이라는 회색 도시에서 나만의 색깔을 만들기 위해 노력하자" <br>
+  라는 목표를 가진 개발자 박기윤입니다. <br><br>
+  지속적인 학습과 개선을 통해 사용자들에게 더 나은 경험을 제공하고, <br>기술적인 트렌드를 적극적으로 반영하여 웹 애플리케이션의 품질을 <br> 끊임없이 향상시키기 위해 <strong>프론트엔드 개발</strong>을 학습하고 있습니다.
+</p>
 
 ---
+
 ### 🙆 I can do...
 ![Linux](https://img.shields.io/badge/linux-FCC624?&style=flex&logo=linux&logoColor=white) ![Java](https://img.shields.io/badge/Java-FF5733) ![Spring](https://img.shields.io/badge/Spring-6DB33F?&style=flex&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Springboot-6DB33F?&style=flex&logo=springboot&logoColor=white) ![postman](https://img.shields.io/badge/postman-FF6C37?&style=flex&logo=postman&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?&style=flex&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?&style=flex&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=flex&logo=javascript&logoColor=white") ![Markdown](https://img.shields.io/badge/markdown-000000?&style=flex&logo=markdown&logoColor=white)
 
