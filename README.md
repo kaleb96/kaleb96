@@ -60,7 +60,7 @@
 ###  📫 How to reach me: ...
 - ☎ : 010-2802-4618
 - 📧 : yes505304@naver.com
-
+- 📄 : [🐈‍⬛ 미어캣의 필기장](https://meerkat127.tistory.com)
 <!--
 **kaleb96/kaleb96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
