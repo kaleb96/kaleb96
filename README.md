@@ -13,15 +13,19 @@
 
 ---
 ### 🌱 I had learned... 
-- The Vue 3 Bootcamp - The Complete Developer Guide - 1050min
-  <a href="https://github.com/kaleb96/instagram" target="_blank">instagram</a>
-- Vue.js 완벽 가이드 - 실습과 리팩토링으로 배우는 실전 개념 - 623min
-- Vue.js 중급 강좌 - 웹앱 제작으로 배워보는 Vue.js, ES6, Vuex - 410min
-- Vuetify Admin Template 만들기 - 기본편 (Based Vue2) - 112min
-- 프론트엔드 날개달기: Vue, React 배우기 전에 꼭 알아야하는 지식 - 165min
-- 코딩애플 인스타그램을 만들며 배워보는 Vue.js3 완벽가이드 - 497min
----
+<div>
+  <h4>1. The Vue 3 Bootcamp - The Complete Developer Guide - 1050min</h4>
+   <a href="https://github.com/kaleb96/instagram" target='_blank'>instagram</a> | <a href="https://github.com/kaleb96/CounterApplication_js_vs_vue.js">CounterApplication_js_vs_vue.js</a> | <a href="https://github.com/kaleb96/typeScriptApp">typeScriptApp</a> | <a href="https://github.com/kaleb96/RickMortyAPI">RickMortyAPI</a> | <a href="https://github.com/kaleb96/QuizApp">QuizApp</a> | <a href="https://github.com/kaleb96/note_app">note_app</a>
+  <h4>2.Vue.js 완벽 가이드 - 실습과 리팩토링으로 배우는 실전 개념 - 623min</h4>
+   <a href="https://github.com/kaleb96/Vue-news">vue-news</a>
+  <h4>3.Vue.js 중급 강좌 - 웹앱 제작으로 배워보는 Vue.js, ES6, Vuex - 410min</h4>
+  <a href="https://github.com/kaleb96/Vue-Intermediate">vue-intermediate</a>
+  <h4>4.Vuetify Admin Template 만들기 - 기본편 (Based Vue2) - 112min</h4>
+  <h4>5.프론트엔드 날개달기: Vue, React 배우기 전에 꼭 알아야하는 지식 - 165min</h4>
+  <h4>6.코딩애플 인스타그램을 만들며 배워보는 Vue.js3 완벽가이드 - 497min</h4>
+</div>
 
+---
 ### 🚧 I'm currently working on...
  -  <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux">React - The Complete Guide 2024</a>
  -  <a href="https://www.udemy.com/course/the-ultimate-react-course">The Ultimate React Course 2024: React, Redux & More</a>
