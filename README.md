@@ -12,18 +12,19 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleb96&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleb96&layout=compact&theme=tokyonight)
 
 ---
-### 🌱 I'm learning... 
-- udemy The Vue 3 Bootcamp - The Complete Developer Guide - 1050min
-- 인프런 Vue.js 완벽가이드 - 실습과 리팩토링으로 배우는 실전 개념 - 623min
-- 인프런 Vue.js 중급강좌 - 웹앱 제작으로 배워보는 Vue.js, ES6, Vuex - 410min
-- 인프런 Vuetify Admin Template 만들기 - 기본편(Based Vue2) - 112min
-- 인프런 프론트엔드 날개달기 : Vue, React 배우기 전에 꼭 알아야하는 지식 - 165min
+### 🌱 I had learned... 
+- The Vue 3 Bootcamp - The Complete Developer Guide - 1050min
+  <a href="https://github.com/kaleb96/instagram" target="_blank">instagram</a>
+- Vue.js 완벽 가이드 - 실습과 리팩토링으로 배우는 실전 개념 - 623min
+- Vue.js 중급 강좌 - 웹앱 제작으로 배워보는 Vue.js, ES6, Vuex - 410min
+- Vuetify Admin Template 만들기 - 기본편 (Based Vue2) - 112min
+- 프론트엔드 날개달기: Vue, React 배우기 전에 꼭 알아야하는 지식 - 165min
 - 코딩애플 인스타그램을 만들며 배워보는 Vue.js3 완벽가이드 - 497min
 ---
 
 ### 🚧 I'm currently working on...
- - simple instagram application &nbsp; <a href="https://github.com/kaleb96/instagram"> <img alt="InstagramApp" src="https://img.shields.io/badge/InstagramApp-E4405F?&style=flex&logo=instagram&logoColor=white"> </a>
- - simple carculator application <a href="https://github.com/kaleb96/carculator"> <img alt="" src="https://img.shields.io/badge/carculator-1d343a?&style=flex&logoColor=white">
+ -  <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux">React - The Complete Guide 2024</a>
+ -  <a href="https://www.udemy.com/course/the-ultimate-react-course">The Ultimate React Course 2024: React, Redux & More</a>
 ---
 ### 👯 I’m looking to collaborate on ...
 저는 이런 개발자와 함께하고 싶습니다.
