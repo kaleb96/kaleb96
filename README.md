@@ -27,7 +27,7 @@
 ### 🌱 I had learned... 
 
 - The Vue 3 Bootcamp - The Complete Developer Guide - 1050min
-  - [instagram](https://github.com/kaleb96/CounterApplication_js_vs_vue.js) | [CounterApplication_js_vs_vue.js](https://github.com/kaleb96/CounterApplication_js_vs_vue.js) | [typeScriptApp](https://github.com/kaleb96/typeScriptApp) | [RickMortyAPI](https://github.com/kaleb96/RickMortyAPI) | [QuizApp](https://github.com/kaleb96/QuizApp) | [note_app](https://github.com/kaleb96/note_app)
+  - [instagram](https://github.com/kaleb96/instagram) | [CounterApplication_js_vs_vue.js](https://github.com/kaleb96/CounterApplication_js_vs_vue.js) | [typeScriptApp](https://github.com/kaleb96/typeScriptApp) | [RickMortyAPI](https://github.com/kaleb96/RickMortyAPI) | [QuizApp](https://github.com/kaleb96/QuizApp) | [note_app](https://github.com/kaleb96/note_app)
 
 - Vue.js 완벽 가이드 - 실습과 리팩토링으로 배우는 실전 개념 - 623min
   - [vue-news](https://github.com/kaleb96/Vue-news)
