@@ -40,6 +40,7 @@
   
 ---
 ### 🚧 I'm currently working on...
+ - Js -> Ts conversion [Instagram_ts](https://github.com/kaleb96/instagram_ts)  
  - [React - The Complete Guide 2024](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
  - [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course)
 ---
