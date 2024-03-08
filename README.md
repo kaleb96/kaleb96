@@ -1,10 +1,11 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=FF9B9B&text=Kaleb%27s%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=FF9B9B&text=Kaleb%27s%20GitHub%20&height=150&fontSize=70&desc=Welcome!&descAlignY=75&descAlign=80)
 
-<p align="center">
+<p>
   반갑습니다. 👏 <br>
-  "항상 정직하고 웃으면서 살자" <br>
-  라는 목표를 가진 개발자 박기윤입니다. <br><br>
-  지속적인 학습과 개선을 통해 사용자들에게 더 나은 경험을 제공하고, <br>기술적인 트렌드를 적극적으로 반영하여 웹 애플리케이션의 품질을 <br> 끊임없이 향상시키기 위해 <strong>프론트엔드 개발</strong>을 학습하고 있습니다.
+  "항상 정직하고 행복하게 살자" 가 삶의 모토인 <br> 개발자 박기윤입니다. <br><br>
+  주어진 일에 <strong>책임감을 가지고</strong> 정진하기 위해 <br>
+  지속적인 학습과 개선을 <strong>지향하며</strong> <br>
+  이를 통해 사용자들에게 더 나은 <strong>경험을 제공하고, </strong> <br>기술적인 트렌드를 적극적으로 반영하여 웹 애플리케이션의 품질을 <br> <strong>끊임없이 향상시키는 개발자</strong>가 되고 싶습니다.
 </p>
 <br>
 <br>
@@ -53,8 +54,8 @@
 저는 이런 개발자와 함께하고 싶습니다.
 - 체계적인 컴포넌트 모듈화 통해 고객의 UX를 개선
 - 간결하고 재사용가능한 가능한 코드를 지향
-- 끊임없는 성장을 추구
 - 단순 기능구현 개발보단 확장성있는 개발을 지향
+- 끊임없는 성장을 추구
 ---
 ### 🤔 I’m looking for ...
 저는 이런 개발을 하고 싶습니다.
