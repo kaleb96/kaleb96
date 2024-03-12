@@ -47,8 +47,7 @@
 ---
 ### 🚧 I'm currently working on...
  - Js -> Ts conversion [Instagram_ts](https://github.com/kaleb96/instagram_ts)  
- - [React - The Complete Guide 2024](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
- - [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course)
+ - vue.js만 알게 아니고 React도 사용하고 싶어 현재는 React를 공부하고 있습니다.! 🤔
 ---
 ### 👯 I’m looking to collaborate on ...
 저는 이런 개발자와 함께하고 싶습니다.
