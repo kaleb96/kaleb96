@@ -48,8 +48,8 @@
   
 ---
 ### 🚧 I'm currently working on...
- - Js -> Ts conversion [Instagram_ts](https://github.com/kaleb96/instagram_ts)  
- - vue.js만 알게 아니고 React도 사용하고 싶어 현재는 React를 공부하고 있습니다.! 🤔
+ - how-much project : [How-much](https://github.com/kaleb96/how-much)
+ - 
 ---
 ### 👯 I’m looking to collaborate on ...
 저는 이런 개발자와 함께하고 싶습니다.
@@ -59,12 +59,10 @@
 - 끊임없는 성장을 추구
 ---
 ### 🤔 I’m looking for ...
-저는 이런 개발을 하고 싶습니다.
-- Pinia를 통한 상태관리
-- CompositionAPI 방식의 개발
-- TypeScript를 사용하는 개발
-- Vue.js에만 국한하지 않고 프로젝트에 따른 새로운 방식 적용 (React, React Native and so on...)
-- 프로젝트의 상황에 따른 아키텍처를 지속적으로 발전하는 설계
+저는 이런 개발자가 되고 싶습니다.
+- 상황에 따라 다양한 <strong> 프레임워크/라이브러리</strong> 를 사용할 수 있는 개발자
+- <strong> UX 향상</strong> 을 위한 고민 하는 개발자
+- 프로젝트의 상황에 따른 <strong> 아키텍처를 지속적으로 발전</strong> 시킬 수 있는 개발자
   
 ---
 ###  📫 How to reach me: ...
