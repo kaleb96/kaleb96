@@ -28,7 +28,6 @@
 
 ---
 ### 🌱 I had learned... 
-
 - The Vue 3 Bootcamp - The Complete Developer Guide - 1050min
   - [instagram](https://github.com/kaleb96/instagram)
   - [CounterApplication_js_vs_vue.js](https://github.com/kaleb96/CounterApplication_js_vs_vue.js)
@@ -49,7 +48,7 @@
 ---
 ### 🚧 I'm currently working on...
  - how-much project : [How-much](https://github.com/kaleb96/how-much)
- - 
+
 ---
 ### 👯 I’m looking to collaborate on ...
 저는 이런 개발자와 함께하고 싶습니다.
