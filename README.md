@@ -47,7 +47,7 @@
   
 ---
 ### 🚧 I'm currently working on...
- - how-much project : [How-much](https://github.com/kaleb96/how-much)
+ - 항공사 페이지 만들기 : [Air-Slient](https://github.com/kaleb96/air-slient)
 
 ---
 ### 👯 I’m looking to collaborate on ...
